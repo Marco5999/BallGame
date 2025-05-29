@@ -1,0 +1,32 @@
+# Build folders
+/Binaries/
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# IDE folders
+/.vscode/
+/.idea/
+/.vs/
+
+# Temporary files
+*.suo
+*.user
+*.log
+*.tmp
+*.pdb
+*.obj
+*.exe
+*.dll
+*.sdf
+*.db
+*.VC.db
+*.VC.opendb
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Optional: ignore team-specific configs
+# /Config/
